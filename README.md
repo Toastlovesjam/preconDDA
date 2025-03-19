@@ -1,0 +1,1 @@
+Custom DDA implementation on gpu using CuPy and PyTorch along with a preconditioner implementation and a customized GPBICGSTAB matrix solver. Primary notebook file contains set up in the first cell, environment building in the second cell, solver in the third and a varieryt of plotting and gif creation in cells after.
